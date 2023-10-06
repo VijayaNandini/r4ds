@@ -1,4 +1,4 @@
-# R for Data Science
+# R for Data Science -- Changing title as part of new branch
 
 <!-- badges: start 
 I know that this is comment section and hence I am adding dummy comments here from VS code to commit this file.
