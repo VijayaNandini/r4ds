@@ -2,6 +2,7 @@
 
 <!-- badges: start 
 I know that this is comment section and hence I am adding dummy comments here from VS code to commit this file.
+Just adding another line for testing
 -->
 
 [![Render and deploy Book to Netlify](https://github.com/hadley/r4ds/actions/workflows/build_book.yaml/badge.svg)](https://github.com/hadley/r4ds/actions/workflows/build_book.yaml)
